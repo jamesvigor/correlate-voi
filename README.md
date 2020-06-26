@@ -1,4 +1,4 @@
-# correlate-voi
+# Consistent Volume Segmentation
 Python script to locate a volume of interest in a tomographic stack based on publication: https://doi.org/10.1016/j.ces.2020.115736
 
 Requires scikit-image, numpy, some in-situ tomographic datasets to play with. 
